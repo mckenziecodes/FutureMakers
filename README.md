@@ -163,5 +163,8 @@ Today's action item was incredibly interesting! I love that we are in the stage 
 As for large NLP models like GPT-3, an ethical implication is what the model will be used for. If released, people could use it to generate bogus contracts or create scams that look professional and realistic, for example.
 
 
+# DAY 24 - Computer Vison (CV): 
+Response Prompt: N/A
 
+Incomplete.
 
